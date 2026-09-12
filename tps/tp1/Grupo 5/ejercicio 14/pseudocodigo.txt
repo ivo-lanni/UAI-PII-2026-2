@@ -1,0 +1,26 @@
+
+Ejercicio 14 — Diferencia entre dos fechas
+
+El TP pide calcular la diferencia en días entre dos fechas.
+
+En el laboratorio también trabajan con DateTime y Subtract para obtener diferencias entre fechas.
+
+
+Pseudocódigo
+1. DateTime fecha1, fecha2;
+
+2. TimeSpan diferencia;
+
+3. Console.WriteLine("Ingrese la primera fecha");
+
+4. fecha1 = Convert.ToDateTime(Console.ReadLine());
+
+5. Console.WriteLine("Ingrese la segunda fecha");
+
+6. fecha2 = Convert.ToDateTime(Console.ReadLine());
+
+7. diferencia = fecha1.Subtract(fecha2);
+
+8. Console.WriteLine("La diferencia es de {0} dias", Math.Abs(diferencia.Days));
+
+9. Console.ReadKey();

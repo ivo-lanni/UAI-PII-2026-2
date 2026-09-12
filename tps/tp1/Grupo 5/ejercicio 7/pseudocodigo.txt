@@ -1,0 +1,17 @@
+Ejercicio 7 — KBytes a bits
+
+El TP indica que 1 Byte tiene 8 bits y pide calcular los bits para cualquier cantidad de KBytes.
+
+
+Pseudocódigo
+1. int kb, bits;
+
+2. Console.WriteLine("Ingrese la cantidad de KBytes");
+
+3. kb = Convert.ToInt32(Console.ReadLine());
+
+4. bits = kb * 1024 * 8;
+
+5. Console.WriteLine("La cantidad de bits es {0}", bits);
+
+6. Console.ReadKey();

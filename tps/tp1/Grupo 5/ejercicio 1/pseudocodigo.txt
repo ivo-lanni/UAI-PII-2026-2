@@ -1,0 +1,27 @@
+ejercicio 1 — Suma de dos números
+
+Pseudocódigo:
+
+
+
+1. string cadena;
+
+2. int a, b, suma;
+
+3. Console.WriteLine("Ingrese un numero");
+
+4. cadena = Console.ReadLine();
+
+5. a = Convert.ToInt32(cadena);
+
+6. Console.WriteLine("Ingrese otro numero");
+
+7. cadena = Console.ReadLine();
+
+8. b = Convert.ToInt32(cadena);
+
+9. suma = a + b;
+
+10. Console.WriteLine("La suma es {0}", suma);
+
+11. Console.ReadKey();

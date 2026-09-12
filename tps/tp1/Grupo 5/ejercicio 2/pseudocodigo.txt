@@ -1,0 +1,23 @@
+Ejercicio 2 — Cantidad de números entre dos valores
+
+El TP plantea ingresar dos números e informar cuántos números hay entre ellos.
+
+Código
+
+
+Pseudocódigo
+1. int a, b, cantidad;
+
+2. Console.WriteLine("Ingrese un numero");
+
+3. a = Convert.ToInt32(Console.ReadLine());
+
+4. Console.WriteLine("Ingrese otro numero");
+
+5. b = Convert.ToInt32(Console.ReadLine());
+
+6. cantidad = b - a;
+
+7. Console.WriteLine("Hay {0} numeros entre ellos", cantidad);
+
+8. Console.ReadKey();

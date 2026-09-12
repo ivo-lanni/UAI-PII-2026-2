@@ -1,0 +1,17 @@
+Ejercicio 6 — Diámetro de una circunferencia
+
+El TP indica que la circunferencia es PI * Diámetro y pide obtener el diámetro a partir de la circunferencia.
+
+
+Pseudocódigo
+1. double circunferencia, diametro;
+
+2. Console.WriteLine("Ingrese la circunferencia");
+
+3. circunferencia = Convert.ToDouble(Console.ReadLine());
+
+4. diametro = circunferencia / Math.PI;
+
+5. Console.WriteLine("El diametro es {0}", diametro);
+
+6. Console.ReadKey();

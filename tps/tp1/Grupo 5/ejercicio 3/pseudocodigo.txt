@@ -1,0 +1,25 @@
+Ejercicio 3 — Perímetro de un triángulo
+
+El enunciado pide ingresar los lados de un triángulo y calcular su perímetro.
+
+
+Pseudocódigo
+1. int a, b, c, perimetro;
+
+2. Console.WriteLine("Ingrese el primer lado");
+
+3. a = Convert.ToInt32(Console.ReadLine());
+
+4. Console.WriteLine("Ingrese el segundo lado");
+
+5. b = Convert.ToInt32(Console.ReadLine());
+
+6. Console.WriteLine("Ingrese el tercer lado");
+
+7. c = Convert.ToInt32(Console.ReadLine());
+
+8. perimetro = a + b + c;
+
+9. Console.WriteLine("El perimetro es {0}", perimetro);
+
+10. Console.ReadKey();

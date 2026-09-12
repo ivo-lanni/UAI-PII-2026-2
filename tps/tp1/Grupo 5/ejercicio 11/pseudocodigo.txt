@@ -1,0 +1,20 @@
+
+Ejercicio 11 — Cantidad de caracteres
+
+El TP pide informar la cantidad de caracteres de una frase.
+
+
+Pseudocódigo
+1. string frase;
+
+2. int cantidad;
+
+3. Console.WriteLine("Ingrese una frase");
+
+4. frase = Console.ReadLine();
+
+5. cantidad = frase.Length;
+
+6. Console.WriteLine("La cantidad de caracteres es {0}", cantidad);
+
+7. Console.ReadKey();

@@ -1,0 +1,17 @@
+
+Ejercicio 12 — Fecha y hora actual
+
+El TP pide mostrar la fecha y hora actual.
+
+
+
+Pseudocódigo
+1. DateTime fecha;
+
+2. fecha = DateTime.Now;
+
+3. Console.WriteLine(fecha);
+
+4. Console.ReadKey();
+
+

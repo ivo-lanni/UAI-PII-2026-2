@@ -1,0 +1,20 @@
+
+Ejercicio 5 — Superficie de un rectángulo
+
+Pseudocódigo
+1. int baseRectangulo, altura, superficie;
+
+2. Console.WriteLine("Ingrese la base");
+
+3. baseRectangulo = Convert.ToInt32(Console.ReadLine());
+
+4. Console.WriteLine("Ingrese la altura");
+
+5. altura = Convert.ToInt32(Console.ReadLine());
+
+6. superficie = baseRectangulo * altura;
+
+7. Console.WriteLine("La superficie es {0}", superficie);
+
+8. Console.ReadKey();
+

@@ -1,0 +1,24 @@
+
+
+Ejercicio 10 — Segunda mitad + primera mitad
+
+El TP pide utilizar específicamente Substring.
+
+
+
+Pseudocódigo
+1. string x, resultado;
+
+2. int mitad;
+
+3. Console.WriteLine("Ingrese una frase");
+
+4. x = Console.ReadLine();
+
+5. mitad = x.Length / 2;
+
+6. resultado = x.Substring(mitad) + x.Substring(0, mitad);
+
+7. Console.WriteLine(resultado);
+
+8. Console.ReadKey();

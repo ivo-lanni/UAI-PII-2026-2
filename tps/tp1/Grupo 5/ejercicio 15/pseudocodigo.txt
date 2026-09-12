@@ -1,0 +1,19 @@
+Ejercicio 15 — Días hasta el 25/12/2020
+
+El TP pide informar cuántos días faltan para el 25/12/2020.
+
+
+Pseudocódigo
+1. DateTime hoy, navidad;
+
+2. TimeSpan diferencia;
+
+3. hoy = DateTime.Now;
+
+4. navidad = new DateTime(2020, 12, 25);
+
+5. diferencia = navidad - hoy;
+
+6. Console.WriteLine("Faltan {0} dias", diferencia.Days);
+
+7. Console.ReadKey();

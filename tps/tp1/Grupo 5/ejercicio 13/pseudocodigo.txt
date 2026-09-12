@@ -1,0 +1,16 @@
+
+Ejercicio 13 — Fecha AAAAMMDD
+
+El TP pide ingresar una fecha y mostrarla con el formato AAAAMMDD.
+
+
+Pseudocódigo
+1. DateTime fecha;
+
+2. Console.WriteLine("Ingrese una fecha");
+
+3. fecha = Convert.ToDateTime(Console.ReadLine());
+
+4. Console.WriteLine(fecha.ToString("yyyyMMdd"));
+
+5. Console.ReadKey();

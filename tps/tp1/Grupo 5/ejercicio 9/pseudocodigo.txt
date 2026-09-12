@@ -1,0 +1,23 @@
+
+Ejercicio 9 — Concatenar dos frases
+
+El enunciado pide ingresar dos frases, concatenarlas y mostrar el resultado.
+
+
+
+Pseudocódigo
+1. string frase1, frase2, resultado;
+
+2. Console.WriteLine("Ingrese una frase");
+
+3. frase1 = Console.ReadLine();
+
+4. Console.WriteLine("Ingrese otra frase");
+
+5. frase2 = Console.ReadLine();
+
+6. resultado = frase1 + " " + frase2;
+
+7. Console.WriteLine(resultado);
+
+8. Console.ReadKey();

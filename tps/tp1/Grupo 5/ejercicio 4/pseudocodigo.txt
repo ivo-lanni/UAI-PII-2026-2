@@ -1,0 +1,17 @@
+Ejercicio 4 — Superficie de un cuadrado
+
+El TP pide calcular la superficie del cuadrado a partir del dato necesario.
+
+
+Pseudocódigo
+1. int lado, superficie;
+
+2. Console.WriteLine("Ingrese el lado del cuadrado");
+
+3. lado = Convert.ToInt32(Console.ReadLine());
+
+4. superficie = lado * lado;
+
+5. Console.WriteLine("La superficie es {0}", superficie);
+
+6. Console.ReadKey();
