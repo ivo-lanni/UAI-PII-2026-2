@@ -1,0 +1,10 @@
+C:\Users\Ivo\source\repos\ej7\tp3\bin\Debug\tp3.exe.config
+C:\Users\Ivo\source\repos\ej7\tp3\bin\Debug\tp3.exe
+C:\Users\Ivo\source\repos\ej7\tp3\bin\Debug\tp3.pdb
+C:\Users\Ivo\source\repos\ej7\tp3\obj\Debug\tp3.csproj.AssemblyReference.cache
+C:\Users\Ivo\source\repos\ej7\tp3\obj\Debug\tp3.Form1.resources
+C:\Users\Ivo\source\repos\ej7\tp3\obj\Debug\tp3.Properties.Resources.resources
+C:\Users\Ivo\source\repos\ej7\tp3\obj\Debug\tp3.csproj.GenerateResource.cache
+C:\Users\Ivo\source\repos\ej7\tp3\obj\Debug\tp3.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\ej7\tp3\obj\Debug\tp3.exe
+C:\Users\Ivo\source\repos\ej7\tp3\obj\Debug\tp3.pdb

@@ -1,0 +1,91 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace tp3
+{
+    public partial class labelBienvenida : Form
+    {
+        public labelBienvenida()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void NumericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int cantidad;
+            decimal numero, suma = 0;
+
+            cantidad = (int)numericUpDown1.Value;
+
+            textBox1.Clear();
+
+            for (int i = 1; i <= cantidad; i++)
+            {
+                numero = Decimal.Parse(
+                    Microsoft.VisualBasic.Interaction.InputBox(
+                        "Ingrese el número " + i,
+                        "Carga de números"
+                    )
+                );
+
+                suma = suma + numero;
+
+                textBox1.AppendText(numero + " + " + Environment.NewLine);
+            }
+
+            label1.Text = "Resultado: " + suma;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
+        {
+
+        }
+
+        private void label4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label4_PaddingChanged(object sender, EventArgs e)
+        {
+
+        }
+
+    }
+}
