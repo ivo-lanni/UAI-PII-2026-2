@@ -1,0 +1,15 @@
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\bin\Debug\net10.0\TP5.exe
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\bin\Debug\net10.0\TP5.deps.json
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\bin\Debug\net10.0\TP5.runtimeconfig.json
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\bin\Debug\net10.0\TP5.dll
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\bin\Debug\net10.0\TP5.pdb
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\TP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\TP5.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\TP5.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\TP5.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\TP5.dll
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\refint\TP5.dll
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\TP5.pdb
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\TP5.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\ref\TP5.dll
+C:\Users\Ivo\Desktop\programacion\TP5\ej3Integrador\TP5\obj\Debug\net10.0\TP5.csproj.Up2Date
