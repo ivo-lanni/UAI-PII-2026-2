@@ -1,0 +1,15 @@
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\bin\Debug\net10.0\tp4.exe
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\bin\Debug\net10.0\tp4.deps.json
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\bin\Debug\net10.0\tp4.runtimeconfig.json
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\bin\Debug\net10.0\tp4.dll
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\bin\Debug\net10.0\tp4.pdb
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\tp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\tp4.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\tp4.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\tp4.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\tp4.dll
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\refint\tp4.dll
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\tp4.pdb
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\tp4.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\ref\tp4.dll
+C:\Users\Ivo\Desktop\programacion\TP4\ej6\tp4\obj\Debug\net10.0\tp4.csproj.Up2Date
